@@ -1,3 +1,2 @@
-[BOM of GST]([https://github.com/DeltaLabo/ground-station-terminal.git](https://docs.google.com/spreadsheets/d/1Yo2W3ex_QLXh4k2NWqWFP31nDZFJzZfu7dbMOJl9564/edit?usp=sharing
-)
+[BOM of GST]([https://github.com/DeltaLabo/ground-station-terminal.git](https://docs.google.com/spreadsheets/d/1Yo2W3ex_QLXh4k2NWqWFP31nDZFJzZfu7dbMOJl9564/edit?usp=sharing)
 
