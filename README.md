@@ -1,6 +1,6 @@
 # ground-station-terminal
 
-### Most recent version of this repository can be found in: ###
+### Most recent version of this repository can be found in: ### 
 
 * [GST-Delta Lab](https://github.com/DeltaLabo/ground-station-terminal.git)
 
