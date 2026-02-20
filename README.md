@@ -26,6 +26,4 @@ OBCC
 * Luis L. Duarte
 
 Potencia
-*Meizel 
-*
 
