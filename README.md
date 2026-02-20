@@ -12,7 +12,20 @@
 * If you want to propose a review or need to modify the code for any reason first clone this [repository](https://github.com/DeltaLabo/ground-station-terminal.git) in your PC and create a new branch for your changes. Once your changes are complete and fully tested ask the administrator permission to push this new branch into the source.
 * If you just want to do local changes instead you can download a zip version of the repository and do all changes locally in your PC.
 
-### Who do I talk to? ###
+### Team structure ###
 
+Assigned professor
 * [Juan J. Rojas](mailto:juan.rojas@itcr.ac.cr)
-* [Kaleb Granados Acuña](mailto:kalebgranac13@gmail.com)
+
+Team managers
+* [Adrián B. Torres](mailto:a.barrantes.2@estudiantec.cr)
+* [Melissa M. Ocampo](mailto:m.mora.5@estudiantec.cr)
+
+OBCC
+* Juan Diego E. Muñoz
+* Luis L. Duarte
+
+Potencia
+*Meizel 
+*
+
