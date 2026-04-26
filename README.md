@@ -1,6 +1,6 @@
 # ground-station-terminal
 
-*Revisar la Wiki*
+# *Revisar la Wiki para más información de los subsitemas y componentes*
 
 ### Mission Statement
 * Our mission is to design, implement, and operate a Ground Station Terminal capable of establishing and maintaining reliable communication with CubeSATs in orbit, enabling academic research, experimentation, and hands-on learning in satellite communications.
