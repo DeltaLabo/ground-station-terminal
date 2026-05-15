@@ -22,18 +22,10 @@
 Assigned professor
 * [Juan J. Rojas](mailto:juan.rojas@itcr.ac.cr)
 
-OBCC
+Students
 * [Juan Diego E. Muñoz](mailto:j.esquivel-3@estudiantec.cr)
 * [Luis L. Duarte](mailto:lledezma@estudiantec.cr)
 * [Adrián B. Torres](mailto:a.barrantes.2@estudiantec.cr)
-
-Power
-* N/A
-  
-Rotors
 * [Meizel S. Quintero](mailto:m.santamaria.1@estudiantec.cr)
 * [Alejandro R. González](mailto:a.rodriguez.7@estudiantec.cr)
-* [Melissa M. Ocampo](mailto:m.mora.5@estudiantec.cr)
-
-Housing
-* N/A
+* [Fátima Cárdenas Obando](mailto:fatimaco13@estudiantec.cr)
